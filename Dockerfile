@@ -7,7 +7,6 @@ RUN apt-get update && apt-get install -y gcc python3-dev
 RUN pip install jupyter
 
 # COPY main.py .
-COPY input_image.jpg .
 COPY requirements.txt .
 COPY face_detection.ipynb .
 
