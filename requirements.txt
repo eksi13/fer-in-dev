@@ -6,4 +6,4 @@ opencv-python==4.9.0.80
 scipy==1.10.1
 matplotlib==3.7.5
 tqdm==4.66.2
-mediapipe==0.10.11
+mediapipe==0.10.9
