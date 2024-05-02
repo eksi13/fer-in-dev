@@ -12,7 +12,7 @@ COPY face_detection.ipynb .
 
 # mediapipe model
 COPY face_landmarker.task .
-
+COPY mediapipe.ipynb .
 
 RUN pip install --no-cache-dir -r requirements.txt
 RUN apt-get update && apt-get install -y libglib2.0-0 libgl1-mesa-glx && rm -rf /var/lib/apt/lists/*
