@@ -1,27 +1,21 @@
-FROM python:3.8-slim
+FROM ubuntu:20.04
 
-RUN mkdir /app
-WORKDIR /app
+ARG DEBIAN_FRONTEND=noninteractive
 
-RUN apt-get update && apt-get install -y gcc python3-dev
-RUN pip install jupyter
+RUN mkdir -p /project/data
+WORKDIR /project
+COPY /data/FER-2013 ./data/FER-2013
+COPY /data/NIMH-CHEFS ./data/NIMH-CHEFS
+COPY requirements.txt .gitignore README.md face_detection.ipynb ./
 
-# COPY main.py .
-COPY requirements.txt .
-COPY face_detection.ipynb .
+# setup
+RUN apt update && \
+    apt install -y git python3 python3-pip && \
+    pip3 install -r requirements.txt
 
-# mediapipe model
-COPY face_landmarker.task .
-COPY mediapipe.ipynb .
-
-RUN pip install --no-cache-dir -r requirements.txt
-RUN apt-get update && apt-get install -y libglib2.0-0 libgl1-mesa-glx && rm -rf /var/lib/apt/lists/*
+RUN apt-get install ffmpeg libsm6 libxext6  -y
 
 EXPOSE 8888
-
-ENV NAME World
+ENV NAME World8
 
 CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
-
-# docker build -t ml-model . 
-# docker run -p 8888:8888 -v /Users/ek/Documents/RWTH/7_SS24/BA/fer-in-dev/data/NIMH-CHEFS:/app/data/in/NIMH-CHEFS ml-model
