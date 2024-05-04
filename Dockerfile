@@ -16,6 +16,6 @@ RUN apt update && \
 RUN apt-get install ffmpeg libsm6 libxext6  -y
 
 EXPOSE 8888
-ENV NAME World8
+ENV NAME World
 
 CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
