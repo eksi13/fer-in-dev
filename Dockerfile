@@ -1,18 +1,19 @@
-FROM python:3.8-slim
+FROM alpine:latest
 
-RUN mkdir /app
+RUN mkdir -p /app /data /models
 WORKDIR /app
 
-RUN apt-get update && apt-get install -y gcc python3-dev
-RUN pip install jupyter
-
-# COPY main.py .
-COPY requirements.txt .
+COPY requirements.txt README.md .gitignore /app/
+COPY /data/FER-2013 /data
+COPY /data/NIMH_CHEFS /data
 COPY face_detection.ipynb .
-# COPY Untitled.ipynb .
 
+RUN apk update && \
+    apk add --no-cache libglib2.0-0 \
+    apk add git gcc python3-dev \
+    rm -rf /var/cache/apk/* 
+    
 RUN pip install --no-cache-dir -r requirements.txt
-RUN apt-get update && apt-get install -y libglib2.0-0 libgl1-mesa-glx && rm -rf /var/lib/apt/lists/*
 
 EXPOSE 8888
 
