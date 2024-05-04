@@ -1,5 +1,7 @@
 FROM ubuntu:20.04
 
+ARG DEBIAN_FRONTEND=noninteractive
+
 RUN mkdir -p /project/data
 WORKDIR /project
 COPY /data/FER-2013 ./data/FER-2013
@@ -11,7 +13,9 @@ RUN apt update && \
     apt install -y git python3 python3-pip && \
     pip3 install -r requirements.txt
 
+RUN apt-get install ffmpeg libsm6 libxext6  -y
+
 EXPOSE 8888
-ENV NAME World
+ENV NAME World8
 
 CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
