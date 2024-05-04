@@ -2,7 +2,8 @@ FROM ubuntu:20.04
 
 RUN mkdir -p /project/data
 WORKDIR /project
-COPY /data/FER-2013 /data/NIMH-CHEFS ./data/
+COPY /data/FER-2013 ./data/FER-2013
+COPY /data/NIMH-CHEFS ./data/NIMH-CHEFS
 COPY requirements.txt .gitignore README.md face_detection.ipynb ./
 
 # setup
