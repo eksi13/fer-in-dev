@@ -4,8 +4,8 @@ ARG DEBIAN_FRONTEND=noninteractive
 
 RUN mkdir -p /project/data
 WORKDIR /project
-COPY /data/FER-2013 ./data/FER-2013
-COPY /data/NIMH-CHEFS ./data/NIMH-CHEFS
+COPY /data/FER-2013 ./data/in/FER-2013
+COPY /data/NIMH-CHEFS ./data/in/NIMH-CHEFS
 COPY requirements.txt .gitignore README.md face_detection.ipynb ./
 
 # setup
