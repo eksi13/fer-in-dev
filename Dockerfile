@@ -7,8 +7,7 @@ WORKDIR /project
 COPY /data/FER-2013 ./data/in/FER-2013
 COPY /data/NIMH-CHEFS ./data/in/NIMH-CHEFS
 COPY requirements.txt .gitignore README.md face_detection.ipynb ./
-COPY face_landmarker.task ./models
-
+COPY face_landmarker.task blaze_face_short_range.tflite ./models/
 
 # setup
 RUN apt update && \
