@@ -2,11 +2,13 @@ FROM ubuntu:20.04
 
 ARG DEBIAN_FRONTEND=noninteractive
 
-RUN mkdir -p /project/data
+RUN mkdir -p /project/data /project/models
 WORKDIR /project
 COPY /data/FER-2013 ./data/in/FER-2013
 COPY /data/NIMH-CHEFS ./data/in/NIMH-CHEFS
 COPY requirements.txt .gitignore README.md face_detection.ipynb ./
+COPY face_landmarker.task ./models
+
 
 # setup
 RUN apt update && \
