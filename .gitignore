@@ -4,6 +4,7 @@ documents/
 .jpg
 .idea
 .ipynb_checkpoints
+.code-workspace
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
