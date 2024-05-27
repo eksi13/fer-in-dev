@@ -20,15 +20,16 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-# run docker container
+# create and run persistent volume
 CONTAINER_NAME="fer-in-dev"
-echo "Running Docker container: $CONTAINER_NAME"
-docker run -p 8888:8888 --name "$CONTAINER_NAME" "$IMAGE_NAME"
+HOST_VOLUME_DIR="/Users/ek/Documents/RWTH/7_SS24/BA/fer-in-dev/data"
+CONTAINER_VOLUME_DIR="/project/data"
+
+echo "Running Docker container: $CONTAINER_NAME with volume $HOST_VOLUME_DIR:$CONTAINER_VOLUME_DIR"
+docker run -p 8888:8888 --name "$CONTAINER_NAME" -v "$HOST_VOLUME_DIR:$CONTAINER_VOLUME_DIR" "$IMAGE_NAME"
 
 # check if container was started
 if [ $? -ne 0 ]; then
     echo "Failed to run Docker container"
     exit 1
 fi
-
-echo "Docker container is running. Access Jupyter Notebook at http://localhost:8888"
