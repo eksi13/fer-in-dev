@@ -7,7 +7,7 @@ WORKDIR /project
 
 # add datasets
 COPY /data/AFEW ./data/in/AFEW
-COPY /data/EMOREACT ./data/in/EMOREACT
+COPY /data/EmoReact ./data/in/EmoReact
 COPY /data/FER-2013 ./data/in/FER-2013
 COPY /data/KDEF-AKDEF ./data/in/KDEF-AKDEF
 COPY /data/KDEF-chimeric ./data/in/KDEF-chimeric
@@ -19,10 +19,10 @@ COPY /data/NIMH-CHEFS ./data/in/NIMH-CHEFS
 COPY /models/face_landmarker.task /models/blaze_face_short_range.tflite ./models/
 
 # add notebooks
-COPY /notebooks/face_detection.ipynb /notebooks/mediapipe.ipynb /notebooks/video.ipynb ./project/notebooks/
+COPY /notebooks/face_detection.ipynb /notebooks/mediapipe.ipynb /notebooks/video.ipynb ./notebooks/
 
 # add requirements
-COPY build-ruin-docker.sh .gitignore README.md requirements.txt ./
+COPY build-run-docker.sh .gitignore README.md requirements.txt ./
 
 # setup
 RUN apt update && \
