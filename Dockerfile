@@ -12,7 +12,6 @@ COPY /data/FER-2013 ./data/in/FER-2013
 COPY /data/KDEF-AKDEF ./data/in/KDEF-AKDEF
 COPY /data/KDEF-chimeric ./data/in/KDEF-chimeric
 COPY /data/KDEF-dyn ./data/in/KDEF-dyn
-COPY /data/MELD ./data/in/MELD
 COPY /data/NIMH-CHEFS ./data/in/NIMH-CHEFS
 
 # add models
@@ -23,6 +22,8 @@ COPY /notebooks/face_detection.ipynb /notebooks/mediapipe.ipynb /notebooks/video
 
 # add requirements
 COPY build-run-docker.sh .gitignore README.md requirements.txt ./
+
+WORKDIR /project
 
 # setup
 RUN apt update && \
