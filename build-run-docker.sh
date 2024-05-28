@@ -25,8 +25,7 @@ CONTAINER_NAME="fer-in-dev"
 HOST_VOLUME_DIR="/Users/ek/Documents/RWTH/7_SS24/BA/fer-in-dev/data"
 CONTAINER_VOLUME_DIR="/project/data"
 
-echo "Running Docker container: $CONTAINER_NAME with volume $HOST_VOLUME_DIR:$CONTAINER_VOLUME_DIR"
-docker run -p 8888:8888 --name "$CONTAINER_NAME" -v "$HOST_VOLUME_DIR:$CONTAINER_VOLUME_DIR" "$IMAGE_NAME"
+docker run -p 8888:8888 --name "$CONTAINER_NAME" -v "$HOST_VOLUME_DIR:$CONTAINER_VOLUME_DIR" -it "$IMAGE_NAME"
 
 # check if container was started
 if [ $? -ne 0 ]; then
