@@ -22,8 +22,6 @@ COPY /notebooks/face_detection.ipynb /notebooks/mediapipe.ipynb /notebooks/video
 # add requirements
 COPY build-run-docker.sh .gitignore README.md requirements.txt ./
 
-WORKDIR /project
-
 # setup
 RUN apt update && \
     apt install -y git python3 python3-pip && \
