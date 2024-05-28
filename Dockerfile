@@ -10,7 +10,6 @@ COPY /data/AFEW ./data/in/AFEW
 COPY /data/EmoReact ./data/in/EmoReact
 COPY /data/FER-2013 ./data/in/FER-2013
 COPY /data/KDEF-AKDEF ./data/in/KDEF-AKDEF
-COPY /data/KDEF-chimeric ./data/in/KDEF-chimeric
 COPY /data/KDEF-dyn ./data/in/KDEF-dyn
 COPY /data/NIMH-CHEFS ./data/in/NIMH-CHEFS
 
