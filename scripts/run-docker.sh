@@ -23,4 +23,6 @@ check_docker_daemon() {
 
 check_docker_daemon
 
-docker run -p 8888:8888 --name "$CONTAINER_NAME" -v "$HOST_VOLUME_DIR:$CONTAINER_VOLUME_DIR" -it "$IMAGE_NAME"
+#docker run -p 8888:8888 --name fer-in-dev -v "/Users/ek/Documents/RWTH/7_SS24/BA/fer-in-dev:/project/volume" -it "fer-in-dev"
+
+docker run -it --rm -v /Users/ek/Documents/RWTH/7_SS24/BA/fer-in-dev:/project/volume -p 8888:8888 tensorflow/tensorflow:latest-jupyter
