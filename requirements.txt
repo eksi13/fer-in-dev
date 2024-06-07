@@ -11,3 +11,5 @@ mediapipe==0.10.9
 jupyter==1.0.0
 pathlib==1.0.1
 prettytable==2.2.0
+torch==2.3.0 
+torchvision==0.18.0
