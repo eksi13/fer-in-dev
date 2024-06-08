@@ -169,4 +169,5 @@ cython_debug/
 .DS_Store
 documents/model_dataset_analysis.xlsx
 *.pth
-models/
+*.tflite
+*.p
