@@ -171,3 +171,4 @@ documents/model_dataset_analysis.xlsx
 *.pth
 *.tflite
 *.p
+*.task
