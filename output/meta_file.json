@@ -1,0 +1,785 @@
+{
+    "START_S001_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S001_T1_La1/START_S001_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S001_T1_La1/START_S001_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S001_T1_La1/START_S001_T1_ELAN_La1_sync.txt",
+        "start_time": "16:31:23920",
+        "end_time": "16:36:23943",
+        "Mu_df": "/home/jovyan/work/output/START_S001_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S001_T1_La1/KI_DF.csv"
+    },
+    "START_S001_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S001_T1_La2/START_S001_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S001_T1_La2/START_S001_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S001_T1_La2/START_S001_T1_ELAN_La2_sync.txt",
+        "start_time": "16:56:1598",
+        "end_time": "17:1:1603",
+        "Mu_df": "/home/jovyan/work/output/START_S001_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S001_T1_La2/KI_DF.csv"
+    },
+    "START_S004_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S004_T1_La1/START_S004_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S004_T1_La1/START_S004_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S004_T1_La1/START_S004_T1_ELAN_La1_sync.txt",
+        "start_time": "18:20:38485",
+        "end_time": "18:25:38499",
+        "Mu_df": "/home/jovyan/work/output/START_S004_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S004_T1_La1/KI_DF.csv"
+    },
+    "START_S004_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S004_T1_La2/START_S004_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S004_T1_La2/START_S004_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S004_T1_La2/START_S004_T1_ELAN_La2_sync.txt",
+        "start_time": "18:56:55536",
+        "end_time": "19:1:55541",
+        "Mu_df": "/home/jovyan/work/output/START_S004_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S004_T1_La2/KI_DF.csv"
+    },
+    "START_S005_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S005_T1_La1/START_S005_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S005_T1_La1/START_S005_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S005_T1_La1/START_S005_T1_ELAN_La1_sync.txt",
+        "start_time": "17:13:5183",
+        "end_time": "17:18:5203",
+        "Mu_df": "/home/jovyan/work/output/START_S005_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S005_T1_La1/KI_DF.csv"
+    },
+    "START_S005_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S005_T1_La2/START_S005_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S005_T1_La2/START_S005_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S005_T1_La2/START_S005_T1_ELAN_La2_sync.txt",
+        "start_time": "17:52:16440",
+        "end_time": "17:57:16445",
+        "Mu_df": "/home/jovyan/work/output/START_S005_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S005_T1_La2/KI_DF.csv"
+    },
+    "START_S006_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S006_T1_La1/START_S006_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S006_T1_La1/START_S006_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S006_T1_La1/START_S006_T1_ELAN_La1_sync.txt",
+        "start_time": "15:6:26903",
+        "end_time": "15:11:26909",
+        "Mu_df": "/home/jovyan/work/output/START_S006_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S006_T1_La1/KI_DF.csv"
+    },
+    "START_S006_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S006_T1_La2/START_S006_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S006_T1_La2/START_S006_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S006_T1_La2/START_S006_T1_ELAN_La2_sync.txt",
+        "start_time": "15:29:16286",
+        "end_time": "15:34:16301",
+        "Mu_df": "/home/jovyan/work/output/START_S006_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S006_T1_La2/KI_DF.csv"
+    },
+    "START_S009_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S009_T1_La1/START_S009_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S009_T1_La1/START_S009_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S009_T1_La1/START_S009_T1_ELAN_La1_sync.txt",
+        "start_time": "15:57:20842",
+        "end_time": "16:2:20863",
+        "Mu_df": "/home/jovyan/work/output/START_S009_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S009_T1_La1/KI_DF.csv"
+    },
+    "START_S009_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S009_T1_La2/START_S009_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S009_T1_La2/START_S009_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S009_T1_La2/START_S009_T1_ELAN_La2_sync.txt",
+        "start_time": "16:36:44059",
+        "end_time": "16:41:44061",
+        "Mu_df": "/home/jovyan/work/output/START_S009_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S009_T1_La2/KI_DF.csv"
+    },
+    "START_S010_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S010_T1_La1/START_S010_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S010_T1_La1/START_S010_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S010_T1_La1/START_S010_T1_ELAN_La1_sync.txt",
+        "start_time": "12:8:27110",
+        "end_time": "12:13:27122",
+        "Mu_df": "/home/jovyan/work/output/START_S010_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S010_T1_La1/KI_DF.csv"
+    },
+    "START_S010_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S010_T1_La2/START_S010_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S010_T1_La2/START_S010_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S010_T1_La2/START_S010_T1_ELAN_La2_sync.txt",
+        "start_time": "12:36:7901",
+        "end_time": "12:41:7905",
+        "Mu_df": "/home/jovyan/work/output/START_S010_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S010_T1_La2/KI_DF.csv"
+    },
+    "START_S011_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S011_T1_La1/START_S011_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S011_T1_La1/START_S011_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S011_T1_La1/START_S011_T1_ELAN_La1_sync.txt",
+        "start_time": "18:6:42644",
+        "end_time": "18:11:42665",
+        "Mu_df": "/home/jovyan/work/output/START_S011_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S011_T1_La1/KI_DF.csv"
+    },
+    "START_S011_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S011_T1_La2/START_S011_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S011_T1_La2/START_S011_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S011_T1_La2/START_S011_T1_ELAN_La2_sync.txt",
+        "start_time": "18:37:34427",
+        "end_time": "18:42:34438",
+        "Mu_df": "/home/jovyan/work/output/START_S011_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S011_T1_La2/KI_DF.csv"
+    },
+    "START_S012_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S012_T1_La1/START_S012_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S012_T1_La1/START_S012_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S012_T1_La1/START_S012_T1_ELAN_La1_sync.txt",
+        "start_time": "18:1:50524",
+        "end_time": "18:6:50528",
+        "Mu_df": "/home/jovyan/work/output/START_S012_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S012_T1_La1/KI_DF.csv"
+    },
+    "START_S012_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S012_T1_La2/START_S012_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S012_T1_La2/START_S012_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S012_T1_La2/START_S012_T1_ELAN_La2_sync.txt",
+        "start_time": "18:29:59422",
+        "end_time": "18:34:59435",
+        "Mu_df": "/home/jovyan/work/output/START_S012_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S012_T1_La2/KI_DF.csv"
+    },
+    "START_S013_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S013_T1_La1/START_S013_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S013_T1_La1/START_S013_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S013_T1_La1/START_S013_T1_ELAN_La1_sync.txt",
+        "start_time": "16:4:49278",
+        "end_time": "16:9:49299",
+        "Mu_df": "/home/jovyan/work/output/START_S013_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S013_T1_La1/KI_DF.csv"
+    },
+    "START_S013_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S013_T1_La2/START_S013_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S013_T1_La2/START_S013_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S013_T1_La2/START_S013_T1_ELAN_La2_sync.txt",
+        "start_time": "16:31:19317",
+        "end_time": "16:36:19322",
+        "Mu_df": "/home/jovyan/work/output/START_S013_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S013_T1_La2/KI_DF.csv"
+    },
+    "START_S014_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S014_T1_La1/START_S014_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S014_T1_La1/START_S014_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S014_T1_La1/START_S014_T1_ELAN_La1_sync.txt",
+        "start_time": "17:3:12391",
+        "end_time": "17:8:12406",
+        "Mu_df": "/home/jovyan/work/output/START_S014_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S014_T1_La1/KI_DF.csv"
+    },
+    "START_S014_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S014_T1_La2/START_S014_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S014_T1_La2/START_S014_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S014_T1_La2/START_S014_T1_ELAN_La2_sync.txt",
+        "start_time": "17:27:27375",
+        "end_time": "17:32:27380",
+        "Mu_df": "/home/jovyan/work/output/START_S014_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S014_T1_La2/KI_DF.csv"
+    },
+    "START_S015_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S015_T1_La1/START_S015_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S015_T1_La1/START_S015_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S015_T1_La1/START_S015_T1_ELAN_La1_sync.txt",
+        "start_time": "11:4:37087",
+        "end_time": "11:9:37112",
+        "Mu_df": "/home/jovyan/work/output/START_S015_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S015_T1_La1/KI_DF.csv"
+    },
+    "START_S015_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S015_T1_La2/START_S015_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S015_T1_La2/START_S015_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S015_T1_La2/START_S015_T1_ELAN_La2_sync.txt",
+        "start_time": "11:37:28203",
+        "end_time": "11:42:28207",
+        "Mu_df": "/home/jovyan/work/output/START_S015_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S015_T1_La2/KI_DF.csv"
+    },
+    "START_S016_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S016_T1_La1/START_S016_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S016_T1_La1/START_S016_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S016_T1_La1/START_S016_T1_ELAN_La1_sync.txt",
+        "start_time": "10:0:11169",
+        "end_time": "10:5:11175",
+        "Mu_df": "/home/jovyan/work/output/START_S016_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S016_T1_La1/KI_DF.csv"
+    },
+    "START_S016_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S016_T1_La2/START_S016_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S016_T1_La2/START_S016_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S016_T1_La2/START_S016_T1_ELAN_La2_sync.txt",
+        "start_time": "10:17:28013",
+        "end_time": "10:22:28019",
+        "Mu_df": "/home/jovyan/work/output/START_S016_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S016_T1_La2/KI_DF.csv"
+    },
+    "START_S017_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S017_T1_La1/START_S017_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S017_T1_La1/START_S017_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S017_T1_La1/START_S017_T1_ELAN_La1_sync.txt",
+        "start_time": "16:6:7198",
+        "end_time": "16:11:7203",
+        "Mu_df": "/home/jovyan/work/output/START_S017_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S017_T1_La1/KI_DF.csv"
+    },
+    "START_S017_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S017_T1_La2/START_S017_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S017_T1_La2/START_S017_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S017_T1_La2/START_S017_T1_ELAN_La2_sync.txt",
+        "start_time": "16:29:4657",
+        "end_time": "16:34:4678",
+        "Mu_df": "/home/jovyan/work/output/START_S017_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S017_T1_La2/KI_DF.csv"
+    },
+    "START_S018_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S018_T1_La1/START_S018_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S018_T1_La1/START_S018_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S018_T1_La1/START_S018_T1_ELAN_La1_sync.txt",
+        "start_time": "16:22:11577",
+        "end_time": "16:27:11594",
+        "Mu_df": "/home/jovyan/work/output/START_S018_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S018_T1_La1/KI_DF.csv"
+    },
+    "START_S018_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S018_T1_La2/START_S018_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S018_T1_La2/START_S018_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S018_T1_La2/START_S018_T1_ELAN_La2_sync.txt",
+        "start_time": "16:51:13271",
+        "end_time": "16:56:13277",
+        "Mu_df": "/home/jovyan/work/output/START_S018_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S018_T1_La2/KI_DF.csv"
+    },
+    "START_S019_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S019_T1_La1/START_S019_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S019_T1_La1/START_S019_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S019_T1_La1/START_S019_T1_ELAN_La1_sync.txt",
+        "start_time": "16:33:36487",
+        "end_time": "16:33:56489",
+        "Mu_df": "/home/jovyan/work/output/START_S019_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S019_T1_La1/KI_DF.csv"
+    },
+    "START_S019_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S019_T1_La2/START_S019_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S019_T1_La2/START_S019_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S019_T1_La2/START_S019_T1_ELAN_La2_sync.txt",
+        "start_time": "16:58:35407",
+        "end_time": "17:3:35411",
+        "Mu_df": "/home/jovyan/work/output/START_S019_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S019_T1_La2/KI_DF.csv"
+    },
+    "START_S020_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S020_T1_La1/START_S020_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S020_T1_La1/START_S020_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S020_T1_La1/START_S020_T1_ELAN_La1_sync.txt",
+        "start_time": "16:42:36458",
+        "end_time": "16:47:36479",
+        "Mu_df": "/home/jovyan/work/output/START_S020_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S020_T1_La1/KI_DF.csv"
+    },
+    "START_S020_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S020_T1_La2/START_S020_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S020_T1_La2/START_S020_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S020_T1_La2/START_S020_T1_ELAN_La2_sync.txt",
+        "start_time": "17:2:33060",
+        "end_time": "17:7:33065",
+        "Mu_df": "/home/jovyan/work/output/START_S020_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S020_T1_La2/KI_DF.csv"
+    },
+    "START_S021_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S021_T1_La1/START_S021_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S021_T1_La1/START_S021_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S021_T1_La1/START_S021_T1_ELAN_La1_sync.txt",
+        "start_time": "16:25:17920",
+        "end_time": "16:30:17932",
+        "Mu_df": "/home/jovyan/work/output/START_S021_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S021_T1_La1/KI_DF.csv"
+    },
+    "START_S021_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S021_T1_La2/START_S021_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S021_T1_La2/START_S021_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S021_T1_La2/START_S021_T1_ELAN_La2_sync.txt",
+        "start_time": "17:0:47937",
+        "end_time": "17:5:47942",
+        "Mu_df": "/home/jovyan/work/output/START_S021_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S021_T1_La2/KI_DF.csv"
+    },
+    "START_S022_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S022_T1_La1/START_S022_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S022_T1_La1/START_S022_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S022_T1_La1/START_S022_T1_ELAN_La1_sync.txt",
+        "start_time": "14:51:19296",
+        "end_time": "14:56:19302",
+        "Mu_df": "/home/jovyan/work/output/START_S022_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S022_T1_La1/KI_DF.csv"
+    },
+    "START_S022_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S022_T1_La2/START_S022_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S022_T1_La2/START_S022_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S022_T1_La2/START_S022_T1_ELAN_La2_sync.txt",
+        "start_time": "15:11:59223",
+        "end_time": "15:16:59229",
+        "Mu_df": "/home/jovyan/work/output/START_S022_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S022_T1_La2/KI_DF.csv"
+    },
+    "START_S023_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S023_T1_La1/START_S023_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S023_T1_La1/START_S023_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S023_T1_La1/START_S023_T1_ELAN_La1_sync.txt",
+        "start_time": "16:9:12944",
+        "end_time": "16:14:12954",
+        "Mu_df": "/home/jovyan/work/output/START_S023_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S023_T1_La1/KI_DF.csv"
+    },
+    "START_S023_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S023_T1_La2/START_S023_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S023_T1_La2/START_S023_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S023_T1_La2/START_S023_T1_ELAN_La2_sync.txt",
+        "start_time": "16:39:43495",
+        "end_time": "16:44:43499",
+        "Mu_df": "/home/jovyan/work/output/START_S023_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S023_T1_La2/KI_DF.csv"
+    },
+    "START_S024_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S024_T1_La1/START_S024_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S024_T1_La1/START_S024_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S024_T1_La1/START_S024_T1_ELAN_La1_sync.txt",
+        "start_time": "17:43:54300",
+        "end_time": "17:48:54303",
+        "Mu_df": "/home/jovyan/work/output/START_S024_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S024_T1_La1/KI_DF.csv"
+    },
+    "START_S024_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S024_T1_La2/START_S024_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S024_T1_La2/START_S024_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S024_T1_La2/START_S024_T1_ELAN_La2_sync.txt",
+        "start_time": "18:2:18024",
+        "end_time": "18:7:18035",
+        "Mu_df": "/home/jovyan/work/output/START_S024_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S024_T1_La2/KI_DF.csv"
+    },
+    "START_S025_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S025_T1_La1/START_S025_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S025_T1_La1/START_S025_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S025_T1_La1/START_S025_T1_ELAN_La1_sync.txt",
+        "start_time": "18:17:50385",
+        "end_time": "18:22:50390",
+        "Mu_df": "/home/jovyan/work/output/START_S025_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S025_T1_La1/KI_DF.csv"
+    },
+    "START_S025_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S025_T1_La2/START_S025_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S025_T1_La2/START_S025_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S025_T1_La2/START_S025_T1_ELAN_La2_sync.txt",
+        "start_time": "18:37:9",
+        "end_time": "18:42:14",
+        "Mu_df": "/home/jovyan/work/output/START_S025_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S025_T1_La2/KI_DF.csv"
+    },
+    "START_S026_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S026_T1_La1/START_S026_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S026_T1_La1/START_S026_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S026_T1_La1/START_S026_T1_ELAN_La1_sync.txt",
+        "start_time": "16:52:46576",
+        "end_time": "16:57:46591",
+        "Mu_df": "/home/jovyan/work/output/START_S026_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S026_T1_La1/KI_DF.csv"
+    },
+    "START_S026_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S026_T1_La2/START_S026_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S026_T1_La2/START_S026_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S026_T1_La2/START_S026_T1_ELAN_La2_sync.txt",
+        "start_time": "17:17:5226",
+        "end_time": "17:22:5228",
+        "Mu_df": "/home/jovyan/work/output/START_S026_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S026_T1_La2/KI_DF.csv"
+    },
+    "START_S027_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S027_T1_La1/START_S027_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S027_T1_La1/START_S027_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S027_T1_La1/START_S027_T1_ELAN_La1_sync.txt",
+        "start_time": "16:36:5396",
+        "end_time": "16:41:5422",
+        "Mu_df": "/home/jovyan/work/output/START_S027_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S027_T1_La1/KI_DF.csv"
+    },
+    "START_S027_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S027_T1_La2/START_S027_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S027_T1_La2/START_S027_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S027_T1_La2/START_S027_T1_ELAN_La2_sync.txt",
+        "start_time": "17:5:47312",
+        "end_time": "17:10:47332",
+        "Mu_df": "/home/jovyan/work/output/START_S027_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S027_T1_La2/KI_DF.csv"
+    },
+    "START_S028_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S028_T1_La1/START_S028_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S028_T1_La1/START_S028_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S028_T1_La1/START_S028_T1_ELAN_La1_sync.txt",
+        "start_time": "16:55:39253",
+        "end_time": "17:0:39256",
+        "Mu_df": "/home/jovyan/work/output/START_S028_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S028_T1_La1/KI_DF.csv"
+    },
+    "START_S028_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S028_T1_La2/START_S028_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S028_T1_La2/START_S028_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S028_T1_La2/START_S028_T1_ELAN_La2_sync.txt",
+        "start_time": "17:19:43522",
+        "end_time": "17:24:43536",
+        "Mu_df": "/home/jovyan/work/output/START_S028_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S028_T1_La2/KI_DF.csv"
+    },
+    "START_S029_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S029_T1_La1/START_S029_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S029_T1_La1/START_S029_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S029_T1_La1/START_S029_T1_ELAN_La1_sync.txt",
+        "start_time": "13:0:44761",
+        "end_time": "13:5:44775",
+        "Mu_df": "/home/jovyan/work/output/START_S029_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S029_T1_La1/KI_DF.csv"
+    },
+    "START_S029_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S029_T1_La2/START_S029_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S029_T1_La2/START_S029_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S029_T1_La2/START_S029_T1_ELAN_La2_sync.txt",
+        "start_time": "13:25:18560",
+        "end_time": "13:30:18578",
+        "Mu_df": "/home/jovyan/work/output/START_S029_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S029_T1_La2/KI_DF.csv"
+    },
+    "START_S030_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S030_T1_La1/START_S030_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S030_T1_La1/START_S030_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S030_T1_La1/START_S030_T1_ELAN_La1_sync.txt",
+        "start_time": "15:29:21704",
+        "end_time": "15:34:21707",
+        "Mu_df": "/home/jovyan/work/output/START_S030_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S030_T1_La1/KI_DF.csv"
+    },
+    "START_S030_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S030_T1_La2/START_S030_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S030_T1_La2/START_S030_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S030_T1_La2/START_S030_T1_ELAN_La2_sync.txt",
+        "start_time": "15:56:49970",
+        "end_time": "16:1:49973",
+        "Mu_df": "/home/jovyan/work/output/START_S030_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S030_T1_La2/KI_DF.csv"
+    },
+    "START_S031_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S031_T1_La1/START_S031_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S031_T1_La1/START_S031_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S031_T1_La1/START_S031_T1_ELAN_La1_sync.txt",
+        "start_time": "17:21:51700",
+        "end_time": "17:26:51703",
+        "Mu_df": "/home/jovyan/work/output/START_S031_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S031_T1_La1/KI_DF.csv"
+    },
+    "START_S031_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S031_T1_La2/START_S031_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S031_T1_La2/START_S031_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S031_T1_La2/START_S031_T1_ELAN_La2_sync.txt",
+        "start_time": "17:49:46492",
+        "end_time": "17:54:46495",
+        "Mu_df": "/home/jovyan/work/output/START_S031_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S031_T1_La2/KI_DF.csv"
+    },
+    "START_S032_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S032_T1_La1/START_S032_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S032_T1_La1/START_S032_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S032_T1_La1/START_S032_T1_ELAN_La1_sync.txt",
+        "start_time": "16:6:4756",
+        "end_time": "16:11:4759",
+        "Mu_df": "/home/jovyan/work/output/START_S032_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S032_T1_La1/KI_DF.csv"
+    },
+    "START_S032_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S032_T1_La2/START_S032_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S032_T1_La2/START_S032_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S032_T1_La2/START_S032_T1_ELAN_La2_sync.txt",
+        "start_time": "16:31:12415",
+        "end_time": "16:36:12425",
+        "Mu_df": "/home/jovyan/work/output/START_S032_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S032_T1_La2/KI_DF.csv"
+    },
+    "START_S033_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S033_T1_La1/START_S033_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S033_T1_La1/START_S033_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S033_T1_La1/START_S033_T1_ELAN_La1_sync.txt",
+        "start_time": "15:45:46714",
+        "end_time": "15:50:46734",
+        "Mu_df": "/home/jovyan/work/output/START_S033_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S033_T1_La1/KI_DF.csv"
+    },
+    "START_S033_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S033_T1_La2/START_S033_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S033_T1_La2/START_S033_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S033_T1_La2/START_S033_T1_ELAN_La2_sync.txt",
+        "start_time": "16:11:29067",
+        "end_time": "16:16:29082",
+        "Mu_df": "/home/jovyan/work/output/START_S033_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S033_T1_La2/KI_DF.csv"
+    },
+    "START_S035_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S035_T1_La1/START_S035_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S035_T1_La1/START_S035_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S035_T1_La1/START_S035_T1_ELAN_La1_sync.txt",
+        "start_time": "15:30:11071",
+        "end_time": "15:35:11074",
+        "Mu_df": "/home/jovyan/work/output/START_S035_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S035_T1_La1/KI_DF.csv"
+    },
+    "START_S035_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S035_T1_La2/START_S035_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S035_T1_La2/START_S035_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S035_T1_La2/START_S035_T1_ELAN_La2_sync.txt",
+        "start_time": "15:57:11040",
+        "end_time": "16:2:11057",
+        "Mu_df": "/home/jovyan/work/output/START_S035_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S035_T1_La2/KI_DF.csv"
+    },
+    "START_S036_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S036_T1_La1/START_S036_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S036_T1_La1/START_S036_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S036_T1_La1/START_S036_T1_ELAN_La1_sync.txt",
+        "start_time": "16:9:47864",
+        "end_time": "16:14:47882",
+        "Mu_df": "/home/jovyan/work/output/START_S036_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S036_T1_La1/KI_DF.csv"
+    },
+    "START_S036_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S036_T1_La2/START_S036_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S036_T1_La2/START_S036_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S036_T1_La2/START_S036_T1_ELAN_La2_sync.txt",
+        "start_time": "16:33:53640",
+        "end_time": "16:38:53642",
+        "Mu_df": "/home/jovyan/work/output/START_S036_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S036_T1_La2/KI_DF.csv"
+    },
+    "START_S037_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S037_T1_La1/START_S037_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S037_T1_La1/START_S037_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S037_T1_La1/START_S037_T1_ELAN_La1_sync.txt",
+        "start_time": "11:7:52891",
+        "end_time": "11:12:52895",
+        "Mu_df": "/home/jovyan/work/output/START_S037_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S037_T1_La1/KI_DF.csv"
+    },
+    "START_S037_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S037_T1_La2/START_S037_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S037_T1_La2/START_S037_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S037_T1_La2/START_S037_T1_ELAN_La2_sync.txt",
+        "start_time": "11:30:49967",
+        "end_time": "11:35:49970",
+        "Mu_df": "/home/jovyan/work/output/START_S037_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S037_T1_La2/KI_DF.csv"
+    },
+    "START_S038_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S038_T1_La1/START_S038_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S038_T1_La1/START_S038_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S038_T1_La1/START_S038_T1_ELAN_La1_sync.txt",
+        "start_time": "12:8:5401",
+        "end_time": "12:13:5407",
+        "Mu_df": "/home/jovyan/work/output/START_S038_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S038_T1_La1/KI_DF.csv"
+    },
+    "START_S038_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S038_T1_La2/START_S038_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S038_T1_La2/START_S038_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S038_T1_La2/START_S038_T1_ELAN_La2_sync.txt",
+        "start_time": "12:25:18547",
+        "end_time": "12:30:18561",
+        "Mu_df": "/home/jovyan/work/output/START_S038_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S038_T1_La2/KI_DF.csv"
+    },
+    "START_S039_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S039_T1_La1/START_S039_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S039_T1_La1/START_S039_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S039_T1_La1/START_S039_T1_ELAN_La1_sync.txt",
+        "start_time": "16:9:15978",
+        "end_time": "16:14:15983",
+        "Mu_df": "/home/jovyan/work/output/START_S039_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S039_T1_La1/KI_DF.csv"
+    },
+    "START_S039_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S039_T1_La2/START_S039_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S039_T1_La2/START_S039_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S039_T1_La2/START_S039_T1_ELAN_La2_sync.txt",
+        "start_time": "16:44:14916",
+        "end_time": "16:49:14944",
+        "Mu_df": "/home/jovyan/work/output/START_S039_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S039_T1_La2/KI_DF.csv"
+    },
+    "START_S040_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S040_T1_La1/START_S040_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S040_T1_La1/START_S040_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S040_T1_La1/START_S040_T1_ELAN_La1_sync.txt",
+        "start_time": "16:22:51158",
+        "end_time": "16:27:51162",
+        "Mu_df": "/home/jovyan/work/output/START_S040_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S040_T1_La1/KI_DF.csv"
+    },
+    "START_S040_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S040_T1_La2/START_S040_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S040_T1_La2/START_S040_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S040_T1_La2/START_S040_T1_ELAN_La2_sync.txt",
+        "start_time": "16:44:22168",
+        "end_time": "16:49:22192",
+        "Mu_df": "/home/jovyan/work/output/START_S040_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S040_T1_La2/KI_DF.csv"
+    },
+    "START_S041_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S041_T1_La1/START_S041_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S041_T1_La1/START_S041_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S041_T1_La1/START_S041_T1_ELAN_La1_sync.txt",
+        "start_time": "17:13:47359",
+        "end_time": "17:18:47362",
+        "Mu_df": "/home/jovyan/work/output/START_S041_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S041_T1_La1/KI_DF.csv"
+    },
+    "START_S041_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S041_T1_La2/START_S041_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S041_T1_La2/START_S041_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S041_T1_La2/START_S041_T1_ELAN_La2_sync.txt",
+        "start_time": "17:40:55153",
+        "end_time": "17:45:55156",
+        "Mu_df": "/home/jovyan/work/output/START_S041_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S041_T1_La2/KI_DF.csv"
+    },
+    "START_S042_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S042_T1_La1/START_S042_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S042_T1_La1/START_S042_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S042_T1_La1/START_S042_T1_ELAN_La1_sync.txt",
+        "start_time": "15:23:32231",
+        "end_time": "15:28:32236",
+        "Mu_df": "/home/jovyan/work/output/START_S042_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S042_T1_La1/KI_DF.csv"
+    },
+    "START_S042_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S042_T1_La2/START_S042_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S042_T1_La2/START_S042_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S042_T1_La2/START_S042_T1_ELAN_La2_sync.txt",
+        "start_time": "15:57:47844",
+        "end_time": "16:2:47849",
+        "Mu_df": "/home/jovyan/work/output/START_S042_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S042_T1_La2/KI_DF.csv"
+    },
+    "START_S043_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S043_T1_La2/START_S043_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S043_T1_La2/START_S043_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S043_T1_La2/START_S043_T1_ELAN_La2_sync.txt",
+        "start_time": "17:46:52114",
+        "end_time": "17:51:52126",
+        "Mu_df": "/home/jovyan/work/output/START_S043_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S043_T1_La2/KI_DF.csv"
+    },
+    "START_S044_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S044_T1_La1/START_S044_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S044_T1_La1/START_S044_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S044_T1_La1/START_S044_T1_ELAN_La1_sync.txt",
+        "start_time": "17:33:34257",
+        "end_time": "17:38:34268",
+        "Mu_df": "/home/jovyan/work/output/START_S044_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S044_T1_La1/KI_DF.csv"
+    },
+    "START_S044_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S044_T1_La2/START_S044_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S044_T1_La2/START_S044_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S044_T1_La2/START_S044_T1_ELAN_La2_sync.txt",
+        "start_time": "17:57:24447",
+        "end_time": "18:2:24452",
+        "Mu_df": "/home/jovyan/work/output/START_S044_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S044_T1_La2/KI_DF.csv"
+    },
+    "START_S045_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S045_T1_La1/START_S045_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S045_T1_La1/START_S045_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S045_T1_La1/START_S045_T1_ELAN_La1_sync.txt",
+        "start_time": "18:11:45616",
+        "end_time": "18:16:45620",
+        "Mu_df": "/home/jovyan/work/output/START_S045_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S045_T1_La1/KI_DF.csv"
+    },
+    "START_S045_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S045_T1_La2/START_S045_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S045_T1_La2/START_S045_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S045_T1_La2/START_S045_T1_ELAN_La2_sync.txt",
+        "start_time": "18:35:26039",
+        "end_time": "18:40:26059",
+        "Mu_df": "/home/jovyan/work/output/START_S045_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S045_T1_La2/KI_DF.csv"
+    },
+    "START_S047_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S047_T1_La1/START_S047_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S047_T1_La1/START_S047_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S047_T1_La1/START_S047_T1_ELAN_La1_sync.txt",
+        "start_time": "17:0:38929",
+        "end_time": "17:5:38953",
+        "Mu_df": "/home/jovyan/work/output/START_S047_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S047_T1_La1/KI_DF.csv"
+    },
+    "START_S047_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S047_T1_La2/START_S047_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S047_T1_La2/START_S047_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S047_T1_La2/START_S047_T1_ELAN_La2_sync.txt",
+        "start_time": "17:25:46411",
+        "end_time": "17:30:46435",
+        "Mu_df": "/home/jovyan/work/output/START_S047_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S047_T1_La2/KI_DF.csv"
+    },
+    "START_S048_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S048_T1_La1/START_S048_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S048_T1_La1/START_S048_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S048_T1_La1/START_S048_T1_ELAN_La1_sync.txt",
+        "start_time": "17:35:20131",
+        "end_time": "17:40:20133",
+        "Mu_df": "/home/jovyan/work/output/START_S048_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S048_T1_La1/KI_DF.csv"
+    },
+    "START_S048_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S048_T1_La2/START_S048_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S048_T1_La2/START_S048_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S048_T1_La2/START_S048_T1_ELAN_La2_sync.txt",
+        "start_time": "17:57:25337",
+        "end_time": "18:2:25357",
+        "Mu_df": "/home/jovyan/work/output/START_S048_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S048_T1_La2/KI_DF.csv"
+    },
+    "START_S049_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S049_T1_La1/START_S049_T1_La1.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S049_T1_La1/START_S049_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S049_T1_La1/START_S049_T1_ELAN_La1_sync.txt",
+        "start_time": "11:15:52202",
+        "end_time": "11:20:52224",
+        "Mu_df": "/home/jovyan/work/output/START_S049_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S049_T1_La1/KI_DF.csv"
+    },
+    "START_S049_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S049_T1_La2/START_S049_T1_La2.MP4",
+        "start_end_file": "/home/jovyan/work/output/START_S049_T1_La2/START_S049_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S049_T1_La2/START_S049_T1_ELAN_La2_sync.txt",
+        "start_time": "11:35:36710",
+        "end_time": "11:40:36715",
+        "Mu_df": "/home/jovyan/work/output/START_S049_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S049_T1_La2/KI_DF.csv"
+    },
+    "START_S002_T1_La1": {
+        "path": "/home/jovyan/work/output/START_S002_T1_La1/START_S002_T1_La1.mp4",
+        "start_end_file": "/home/jovyan/work/output/START_S002_T1_La1/START_S002_T1_La1.csv",
+        "sync_file": "/home/jovyan/work/output/START_S002_T1_La1/START_S002_T1_ELAN_La1_sync.txt",
+        "start_time": "17:18:26784",
+        "end_time": "17:23:26787",
+        "Mu_df": "/home/jovyan/work/output/START_S002_T1_La1/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S002_T1_La1/KI_DF.csv"
+    },
+    "START_S002_T1_La2": {
+        "path": "/home/jovyan/work/output/START_S002_T1_La2/START_S002_T1_La2.mp4",
+        "start_end_file": "/home/jovyan/work/output/START_S002_T1_La2/START_S002_T1_La2.csv",
+        "sync_file": "/home/jovyan/work/output/START_S002_T1_La2/START_S002_T1_ELAN_La2_sync.txt",
+        "start_time": "17:38:26537",
+        "end_time": "17:43:26553",
+        "Mu_df": "/home/jovyan/work/output/START_S002_T1_La2/MU_DF.csv",
+        "Ki_df": "/home/jovyan/work/output/START_S002_T1_La2/KI_DF.csv"
+    }
+}
