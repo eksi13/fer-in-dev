@@ -1,9 +1,10 @@
 data/
-documents/
 .DS_Store
 .jpg
 .idea
 .ipynb_checkpoints
+.code-workspace
+.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -166,3 +167,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .DS_Store
+documents/model_dataset_analysis.xlsx
+*.pth
+*.tflite
+*.p
+*.task

@@ -1,20 +1,27 @@
 FROM ubuntu:20.04
 
-ARG DEBIAN_FRONTEND=noninteractive
-
-RUN mkdir -p /project/data /project/models
+ENV DEBIAN_FRONTEND noninteractive
+   
+RUN mkdir -p /project/volume/data /project/volume/models /project/volume/notebooks
 WORKDIR /project
-COPY /data/FER-2013 ./data/in/FER-2013
-COPY /data/NIMH-CHEFS ./data/in/NIMH-CHEFS
-COPY requirements.txt .gitignore README.md face_detection.ipynb ./
-COPY face_landmarker.task blaze_face_short_range.tflite ./models/
+
+# add models
+COPY /models/face_landmarker.task /models/blaze_face_short_range.tflite ./volume/models/
+
+# add notebooks
+COPY /notebooks/face_detection.ipynb /notebooks/mediapipe.ipynb /notebooks/video.ipynb ./volume/notebooks/
+
+# add requirements
+COPY /scripts/build-run-docker.sh ./
+COPY .gitignore ./
+COPY README.md ./
+COPY requirements.txt ./
 
 # setup
-RUN apt update && \
-    apt install -y git python3 python3-pip && \
-    pip3 install -r requirements.txt
+RUN apt-get update && \
+    apt-get install -y git python3 python3-pip pkg-config ffmpeg libsm6 libxext6
 
-RUN apt-get install ffmpeg libsm6 libxext6  -y
+RUN pip3 install -r requirements.txt
 
 EXPOSE 8888
 ENV NAME World
